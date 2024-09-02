@@ -30,5 +30,6 @@ I serve as a reviewer and program committee member for AAAI(24-25), UAI(23-24), 
 Work Experience
 ======
 Quantitative Research Intern, Changer Invest Management Consulting Co., Ltd,  Dec 2020 - Feb 2021
+
 Web Developer, Baanyan Software Service, Inc, Aug 2015 - Aug 2016 
 
