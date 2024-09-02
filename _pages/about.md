@@ -11,7 +11,6 @@ I'm a Research Associate at Vanderbilt University, Computer Science Department a
 
 Publications
 ======
-
 **Tianshu Bao**, Hua Wei, Dan Work and Taylor T. Johnson, " Spatial-Temporal PDE Networks for Traffic Flow Forecasting", European Conference on Machine Learning and Principles of Knowledge Discovery in Databases (ECML-PKDD), 2024, Sept.
 
 **Tianshu Bao**, Taylor T. Johnson and Xiaowei Jia, " Transfer Learning using Inaccurate Physics Rule for Streamflow Prediction", the 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024, Aug.
@@ -24,6 +23,8 @@ Shengyu Chen, **Tianshu Bao**, Givi Peyman, Can Zheng, Xiaowei Jia, " Reconstruc
 
 Hoang-Dung Tran, **Tianshu Bao**, Taylor T. Johnson, "Discrete-Space Analysis of Partial Differential Equations (PDEs) (Benchmark Proposal)", In 5th Applied Verification for Continuous and Hybrid Systems Workshop (ARCH), Oxford, UK, 2018, July.
 
-
+Professonal Services
+======
+I served as a reviewer and program committee member for AAAI(24-25), UAI(23-24), IJCAI(24), CAV(22-23), ICCPS(24), CDC(21), TAC(23-24),etc
 
 
