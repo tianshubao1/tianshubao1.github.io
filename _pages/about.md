@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Research Associate at Vanderbilt University, Computer Science Department, and got my Ph.D. degree from the same department. My research interests include data science, machine learning, and artificial intelligence, especially physics-based machine learning, uncertainty quantification, federated learning, model validation and etc.
+I'm a Research Associate at Vanderbilt University, Computer Science Department, and get my Ph.D. degree from the same department. My research interests include data science, machine learning, and artificial intelligence, especially physics-based machine learning, uncertainty quantification, federated learning, model validation and etc.
 
 
 Publications
