@@ -12,12 +12,17 @@ I'm a Research Associate at Vanderbilt University, Computer Science Department a
 Publications
 ======
 
-Tianshu Bao, Hua Wei, Dan Work and Taylor T. Johnson, " Spatial-Temporal PDE Networks for Traffic Flow Forecasting", European Conference on Machine Learning and Principles of Knowledge Discovery in Databases (ECML-PKDD), 2024, Sept.
-Tianshu Bao, Taylor T. Johnson and Xiaowei Jia, " Transfer Learning using Inaccurate Physics Rule for Streamflow Prediction", the 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024, Aug.
-Shengyu Chen, Tianshu Bao, Givi Peyman, Can Zheng, Xiaowei Jia, " Reconstructing Turbulent Flows using Spatio-Temporal Physical Dynamics", ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2023, Dec.
-Tianshu Bao, Shengyu Chen, Taylor T. Johnson, Peyman Givi, and Xiaowei Jia, "Physics Guided Neural Networks for Spatio-temporal Super-resolution of Turbulent Flows", the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2022, August.
-Tianshu Bao, Xiaowei Jia, Jacob Zwart, Jeffrey Sadler, Alison Appling, Samantha Oliver, Jordan Read, and Taylor T. Johnson, "Partial Differential Equation Driven Rivernet Dynamic Graph Networks", IEEE International Conference on Data Mining (ICDM), 2021, December. (C.F. Chen Best Paper Award, Student Attendance Award)
-Hoang-Dung Tran, Tianshu Bao, Taylor T. Johnson, "Discrete-Space Analysis of Partial Differential Equations (PDEs) (Benchmark Proposal)", In 5th Applied Verification for Continuous and Hybrid Systems Workshop (ARCH), Oxford, UK, 2018, July.
+**Tianshu Bao**, Hua Wei, Dan Work and Taylor T. Johnson, " Spatial-Temporal PDE Networks for Traffic Flow Forecasting", European Conference on Machine Learning and Principles of Knowledge Discovery in Databases (ECML-PKDD), 2024, Sept.
+
+**Tianshu Bao**, Taylor T. Johnson and Xiaowei Jia, " Transfer Learning using Inaccurate Physics Rule for Streamflow Prediction", the 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024, Aug.
+
+Shengyu Chen, **Tianshu Bao**, Givi Peyman, Can Zheng, Xiaowei Jia, " Reconstructing Turbulent Flows using Spatio-Temporal Physical Dynamics", ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2023, Dec.
+
+**Tianshu Bao**, Shengyu Chen, Taylor T. Johnson, Peyman Givi, and Xiaowei Jia, "Physics Guided Neural Networks for Spatio-temporal Super-resolution of Turbulent Flows", the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2022, August.
+
+**Tianshu Bao**, Xiaowei Jia, Jacob Zwart, Jeffrey Sadler, Alison Appling, Samantha Oliver, Jordan Read, and Taylor T. Johnson, "Partial Differential Equation Driven Rivernet Dynamic Graph Networks", IEEE International Conference on Data Mining (ICDM), 2021, December. (C.F. Chen Best Paper Award, Student Attendance Award)
+
+Hoang-Dung Tran, **Tianshu Bao**, Taylor T. Johnson, "Discrete-Space Analysis of Partial Differential Equations (PDEs) (Benchmark Proposal)", In 5th Applied Verification for Continuous and Hybrid Systems Workshop (ARCH), Oxford, UK, 2018, July.
 
 
 
