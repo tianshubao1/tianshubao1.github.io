@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Tianshu Bao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Associate at Vanderbilt University"
+  location         : "Nashville, TN"
+  employer         : "Vanderbilt University"
   uri              : # URL
   email            : "none@example.org" 
 
