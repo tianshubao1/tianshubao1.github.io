@@ -23,8 +23,12 @@ Shengyu Chen, **Tianshu Bao**, Givi Peyman, Can Zheng, Xiaowei Jia, " Reconstruc
 
 Hoang-Dung Tran, **Tianshu Bao**, Taylor T. Johnson, "Discrete-Space Analysis of Partial Differential Equations (PDEs) (Benchmark Proposal)", In 5th Applied Verification for Continuous and Hybrid Systems Workshop (ARCH), Oxford, UK, 2018, July.
 
-Professonal Services
+Professional Services
 ======
 I serve as a reviewer and program committee member for AAAI(24-25), UAI(23-24), IJCAI(24), CAV(22-23), ICCPS(24), CDC(21), TAC(23-24), etc
 
+Work Experience
+======
+Quantitative Research Intern, Changer Invest Management Consulting Co., Ltd,  Dec 2020 - Feb 2021
+Web Developer, Baanyan Software Service, Inc, Aug 2015 - Aug 2016 
 
