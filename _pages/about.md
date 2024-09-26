@@ -34,5 +34,3 @@ Quantitative Research Intern, Changer Invest Management Consulting Co., Ltd,  De
 Web Developer, Baanyan Software Service, Inc, Aug 2015 - Aug 2016 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2i2kzeku4oSZOfXhSgDlCFGlqjfAu0UbqaYj_iwktuk&cl=ffffff&w=a"></script>
-
