@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Research Associate at Vanderbilt University, Computer Science Department. I got my PhD from Vanderbilt University in Computer Science, master from Stony Brook University in Computational Applied Math, and bachelor from Shanghai Maritime University in Transportation Engineering. My research interests include data science, machine learning, and artificial intelligence, especially physics-based machine learning, spatial-temporal data mining, uncertainty quantification, federated learning, model validation, etc.
+I'm a Research Associate at Vanderbilt University, Computer Science Department, and got the PhD from the same place. My research interests include data science, machine learning, and artificial intelligence, especially physics-based machine learning, spatial-temporal data mining, uncertainty quantification, federated learning, model validation, etc.
 
 
 Publications
