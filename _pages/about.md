@@ -11,6 +11,8 @@ I'm a Research Associate at Vanderbilt University, Computer Science Department, 
 
 Publications
 ======
+**Tianshu Bao**, Xiaoou Liu, Meiyi Ma, Taylor T. Johnson, Hua Wei, " Uncertainty Quantification for Physics-Informed Traffic Graph Networks", International Conference on Cyber-Physical Systems (ICCPS), accepted.
+
 **Tianshu Bao**, Hua Wei, Dan Work and Taylor T. Johnson, " Spatial-Temporal PDE Networks for Traffic Flow Forecasting", European Conference on Machine Learning and Principles of Knowledge Discovery in Databases (ECML-PKDD), 2024, Sept. (CORE conference ranking A)
 
 **Tianshu Bao**, Taylor T. Johnson and Xiaowei Jia, " Transfer Learning using Inaccurate Physics Rule for Streamflow Prediction", the 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024, Aug. (CORE conference ranking A*)
