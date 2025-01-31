@@ -19,7 +19,7 @@ Publications
 
 Shengyu Chen, **Tianshu Bao**, Givi Peyman, Can Zheng, Xiaowei Jia, " Reconstructing Turbulent Flows using Spatio-Temporal Physical Dynamics", ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2023, Dec. (Computer Science Information Systems Rank 18/249, Q1)
 
-**Tianshu Bao** *, Shengyu Chen*, Taylor T. Johnson, Peyman Givi, and Xiaowei Jia, "Physics Guided Neural Networks for Spatio-temporal Super-resolution of Turbulent Flows", the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2022, August. (CORE conference ranking A*)
+**Tianshu Bao** *, Shengyu Chen, Taylor T. Johnson, Peyman Givi, and Xiaowei Jia, "Physics Guided Neural Networks for Spatio-temporal Super-resolution of Turbulent Flows", the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2022, August. (CORE conference ranking A*)
 
 **Tianshu Bao**, Xiaowei Jia, Jacob Zwart, Jeffrey Sadler, Alison Appling, Samantha Oliver, Jordan Read, and Taylor T. Johnson, "Partial Differential Equation Driven Rivernet Dynamic Graph Networks", IEEE International Conference on Data Mining (ICDM), 2021, December. (**C.F. Chen Best Paper Award**, Student Attendance Award, CORE conference ranking A*)
 
