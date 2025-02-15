@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Postdoc Research Associate at Vanderbilt University, Computer Science Department, and got the PhD from the same place. My research interests include data science, machine learning, and AI safety, especially physics-informed machine learning, spatial-temporal data mining, uncertainty quantification, CPS, etc.
+I'm a Postdoc Researcher at Vanderbilt University, Computer Science Department, and got the PhD from the same place. My research interests include data science, machine learning, and AI safety, especially physics-informed machine learning, spatial-temporal data mining, uncertainty quantification, CPS, etc.
 
 
 Publications
