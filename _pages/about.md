@@ -21,7 +21,7 @@ Shengyu Chen, **Tianshu Bao**, Givi Peyman, Can Zheng, Xiaowei Jia, " Reconstruc
 
 **Tianshu Bao**\*, Shengyu Chen\*, Taylor T. Johnson, Peyman Givi, and Xiaowei Jia, "Physics Guided Neural Networks for Spatio-temporal Super-resolution of Turbulent Flows", the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2022, August. (CORE conference ranking A*)
 
-**Tianshu Bao**, Xiaowei Jia, Jacob Zwart, Jeffrey Sadler, Alison Appling, Samantha Oliver, Jordan Read, and Taylor T. Johnson, "Partial Differential Equation Driven Rivernet Dynamic Graph Networks", IEEE International Conference on Data Mining (ICDM), 2021, December. (**C.F. Chen Best Paper Award**, Student Attendance Award, CORE conference ranking A*)
+**Tianshu Bao**, Xiaowei Jia, Jacob Zwart, Jeffrey Sadler, Alison Appling, Samantha Oliver, Jordan Read, and Taylor T. Johnson, "Partial Differential Equation Driven Rivernet Dynamic Graph Networks", IEEE International Conference on Data Mining (ICDM), 2021, December. (**C.F. Chen Best Paper Award**, Student Attendance Award, CORE conference ranking A*) <a href="/files/icdm.pdf" target="_blank"><PDF></a>
 
 Hoang-Dung Tran, **Tianshu Bao**, Taylor T. Johnson, "Discrete-Space Analysis of Partial Differential Equations (PDEs) (Benchmark Proposal)", In 5th Applied Verification for Continuous and Hybrid Systems Workshop (ARCH), Oxford, UK, 2018, July.
 
