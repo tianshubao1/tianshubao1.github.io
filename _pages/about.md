@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Tianshu Bao, PhD, is a Postdoc Researcher at Vanderbilt University, Computer Science Department. and he got his PhD from the same place. His research interests include data science, machine learning, and AI safety, especially physics-informed machine learning, spatial-temporal data mining, uncertainty quantification, etc. 
+Tianshu Bao, PhD, is a Postdoc Researcher at Vanderbilt University, Computer Science Department, and he got his PhD from the same place. His research interests include data science, machine learning, and AI safety, especially physics-informed machine learning, spatial-temporal data mining, uncertainty quantification, etc. 
 
 
 Publications
