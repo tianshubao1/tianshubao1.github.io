@@ -11,7 +11,7 @@ Dr. Tianshu Bao is a Postdoc Researcher at Vanderbilt University, Computer Scien
 
 Publications
 ======
-**Tianshu Bao**, Xiaoou Liu, Meiyi Ma, Taylor T. Johnson, Hua Wei, " Uncertainty Quantification for Physics-Informed Traffic Graph Networks", ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), 2024, Sept. (**Best Artifact Award**)
+**Tianshu Bao**, Xiaoou Liu, Meiyi Ma, Taylor T. Johnson, Hua Wei, " Uncertainty Quantification for Physics-Informed Traffic Graph Networks", ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), 2025, May. (**Best Artifact Award**)
 
 **Tianshu Bao**, Hua Wei, Dan Work and Taylor T. Johnson, " Spatial-Temporal PDE Networks for Traffic Flow Forecasting", European Conference on Machine Learning and Principles of Knowledge Discovery in Databases (ECML-PKDD), 2024, Sept. (CORE conference ranking A) [<a href="/files/PDE_traffic_network_ECML.pdf" target="_blank">pdf</a>]
 
