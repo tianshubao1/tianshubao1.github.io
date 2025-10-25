@@ -27,7 +27,7 @@ Hoang-Dung Tran, **Tianshu Bao**, Taylor T. Johnson, "Discrete-Space Analysis of
 
 Professional Services
 ======
-He serves as a reviewer and program committee member for AAAI(24,25,26), UAI(23,24,25), IJCAI(24), CAV(22,23), ICCPS(24,25), CDC(21), TAC(23,24), ACC(25), ECC(25), PRL(24), etc
+He serves as a reviewer and program committee member for AAAI(24,25,26), UAI(23,24,25), ICCPS(24,25,26), MTAP(25), IJCAI(24), CAV(22,23), CDC(21), TAC(23,24), ACC(25), ECC(25), PRL(24), etc
 
 Work Experience
 ======
